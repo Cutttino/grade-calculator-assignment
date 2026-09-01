@@ -13,7 +13,7 @@ This is a simple program that lets the user enter their grade number and the pro
 
 Programming concepts used:
 - A scanner for reading user input
-- A condtional statement for different grade numbers typed in.
+- A conditional statement for different grade numbers typed in.
 - Exception Handling for invalid input.
 
 Expected Input:
