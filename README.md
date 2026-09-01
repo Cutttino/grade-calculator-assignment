@@ -6,7 +6,7 @@ Course: COP 1000C
 CRN: 17196
 
 Program Name:
-Grade Caculator
+Grade Calculator
 
 Description:
 This is a simple program that lets the user enter their grade number and the program returns the letter grade. This is one of my first programs.
