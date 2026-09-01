@@ -7,6 +7,7 @@ CRN: 17196
 
 Program Name:
 Grade Caculator
+
 Description:
 This is a simple program that lets the user enter their grade number and the program returns the letter grade. This is one of my first programs.
 
